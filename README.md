@@ -5,4 +5,6 @@ It can handle things like 16+2-4*5/6, however, it cannot handle things like: 1^2
 Why did I make this? I got bored, OK?
 Don't ask :)
 
-Have fun!
+Have fun!                 
+
+yeah i'll update it
